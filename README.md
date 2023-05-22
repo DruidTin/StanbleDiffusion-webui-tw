@@ -9,4 +9,4 @@
 4.  點擊畫面上方的 Apply settins 按鈕
 5.  點擊畫面上方的 Reload UI 按鈕完成重載介面
 
-(https://upload.cc/i1/2023/05/22/I83zib.png)
+<img src="https://upload.cc/i1/2023/05/22/I83zib.png"/>
